@@ -8,19 +8,25 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation](https://automl.github.io/auto-sklearn/master/)
  - [Paper 1](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf), [Paper 2](https://arxiv.org/abs/2007.04074)
 
+**License:** 3-clause BSD
+
 ---
 
 ### H2O AutoML
  - [Repository](https://github.com/h2oai/h2o-3)
  - [Documentation](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
- - [Paper 1](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf), [Paper 2]()
+ - [Paper](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf)
+
+**License:** Apache 2.0
 
 ---
 
 ### TPOT
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/EpistasisLab/tpot)
+ - [Documentation](http://epistasislab.github.io/tpot/)
+ - [Paper 1](https://academic.oup.com/bioinformatics/article/36/1/250/5511404), [Paper 2](https://dl.acm.org/doi/10.1145/2908812.2908918), [Paper 3](https://link.springer.com/chapter/10.1007/978-3-319-31204-0_9)
+
+**License:** LGPL-3.0
 
 ---
 
@@ -29,6 +35,8 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
 
+**License:** ?
+
 ---
 
 ### AutoWeka 
@@ -36,11 +44,15 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
 
+**License:** ?
+
 ---
 ### AutoGluon
  - [Repository]()
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
+
+**License:** ?
 
 ---
 ### GAMA
@@ -48,11 +60,15 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
 
+**License:** ?
+
 ---
 ### OBOE
  - [Repository]()
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
+
+**License:** ?
 
 ---
 ### LAMA
@@ -60,11 +76,15 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
 
+**License:** ?
+
 ---
 ### WhiteBoxAutoML
  - [Repository]()
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
+
+**License:** ?
 
 ---
 ### mljar-supervised
@@ -72,11 +92,15 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
 
+**License:** ?
+
 ---
 ### pycaret 2.0
  - [Repository]()
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
+
+**License:** ?
 
 ---
 ### MLBox
@@ -84,11 +108,15 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
 
+**License:** ?
+
 ---
 ### auto_ml
  - [Repository]()
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
+
+**License:** ?
 
 ---
 ### Pennai
@@ -96,11 +124,15 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
 
+**License:** ?
+
 ---
 ### ML-Plan
  - [Repository]()
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
+
+**License:** ?
 
 ---
 ### TransmogrifAI
@@ -108,11 +140,15 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
 
+**License:** ?
+
 ---
 ### autoxgboost
  - [Repository]()
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
+
+**License:** ?
 
 ---
 ### NNI (microsoft)
@@ -120,11 +156,15 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
 
+**License:** ?
+
 ---
 ### Recipe
  - [Repository]()
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
+
+**License:** ?
 
 ---
 ### Xcessiv
@@ -132,10 +172,14 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
 
+**License:** ?
+
 ---
 ### 
  - [Repository]()
  - [Documentation]()
  - [Paper 1](), [Paper 2]()
+
+**License:** ?
 
 ---
