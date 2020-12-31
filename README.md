@@ -15,61 +15,21 @@ List of datasets
 
 ## Open-source AutoML projects
 
-| Name | Repository | Documentation | Stats |
-|:---------:|:---------:|:---------:|:---------:|
-| auto-sklearn | [Repository](https://github.com/automl/auto-sklearn) | [Documentation](https://automl.github.io/auto-sklearn/master/)             | ![Lines of code](https://img.shields.io/tokei/lines/github/automl/auto-sklearn?style=flat-square)
-| H2O (AutoML) | [Repository](https://github.com/h2oai/h2o-3)         | [Documentation](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) | ![Lines of code](https://img.shields.io/tokei/lines/github/h2oai/h2o-3?style=flat-square)
-| TPOT         | [Repository](https://github.com/EpistasisLab/tpot)   | [Documentation](http://epistasislab.github.io/tpot/)                       | ![Lines of code](https://img.shields.io/tokei/lines/github/EpistasisLab/tpot?style=flat-square)
-
-
-
-
-### auto-sklearn 
- - [Repository](https://github.com/automl/auto-sklearn)
- - [Documentation](https://automl.github.io/auto-sklearn/master/)
- - [Paper 1](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf), [Paper 2](https://arxiv.org/abs/2007.04074)
-
-**License:** BSD-3-Clause 
-
----
-
-### H2O AutoML
- - [Repository](https://github.com/h2oai/h2o-3)
- - [Documentation](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
- - [Paper](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf)
-
-**License:** Apache-2.0
-
----
-
-### TPOT
- - [Repository](https://github.com/EpistasisLab/tpot)
- - [Documentation](http://epistasislab.github.io/tpot/)
- - [Paper 1](https://academic.oup.com/bioinformatics/article/36/1/250/5511404), [Paper 2](https://dl.acm.org/doi/10.1145/2908812.2908918), [Paper 3](https://link.springer.com/chapter/10.1007/978-3-319-31204-0_9)
-
-**License:** LGPL-3.0
-
----
-
-### hyperopt-sklearn
- - [Repository](https://github.com/hyperopt/hyperopt-sklearn)
- - [Documentation](https://hyperopt.github.io/hyperopt-sklearn/)
- - [Paper 1](http://conference.scipy.org/proceedings/scipy2014/pdfs/komer.pdf)
-
-**License:** BSD-3-Clause 
-
----
+| Name | Repository | Documentation | Stats | Papers | License |
+|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+| auto-sklearn | [Repository](https://github.com/automl/auto-sklearn) | [Documentation](https://automl.github.io/auto-sklearn/master/)             | ![Lines of code](https://img.shields.io/tokei/lines/github/automl/auto-sklearn?style=flat-square) | [Paper 1](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf), [Paper 2](https://arxiv.org/abs/2007.04074) | BSD-3-Clause 
+| H2O (AutoML) | [Repository](https://github.com/h2oai/h2o-3)         | [Documentation](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) | ![Lines of code](https://img.shields.io/tokei/lines/github/h2oai/h2o-3?style=flat-square)         | [Paper](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf)                                                          | Apache-2.0
+| TPOT         | [Repository](https://github.com/EpistasisLab/tpot)   | [Documentation](http://epistasislab.github.io/tpot/)                       | ![Lines of code](https://img.shields.io/tokei/lines/github/EpistasisLab/tpot?style=flat-square)   | [Paper 1](https://academic.oup.com/bioinformatics/article/36/1/250/5511404), [Paper 2](https://dl.acm.org/doi/10.1145/2908812.2908918)       | LGPL-3.0
+| hyperopt-sklearn | [Repository](https://github.com/hyperopt/hyperopt-sklearn) | [Documentation](https://hyperopt.github.io/hyperopt-sklearn/) | ![Lines of code](https://img.shields.io/tokei/lines/github/hyperopt/hyperopt-sklearn?style=flat-square) | [Paper 1](http://conference.scipy.org/proceedings/scipy2014/pdfs/komer.pdf) | BSD-3-Clause  |
+| Auto-WEKA | [Repository](https://github.com/automl/autoweka) | [Documentation](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/manual.pdf) | ![Lines of code](https://img.shields.io/tokei/lines/github/automl/autoweka?style=flat-square)  | [Paper 1](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/autoweka.pdf), [Paper 2](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/16-599.pdf) | GPL-3.0 |
+| | | | | | |
+| | | | | | |
+| | | | | | |
 
 ### Auto-WEKA  
- - [Repository](https://github.com/automl/autoweka)
- - [Documentation](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/manual.pdf)
- - [Paper 1](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/autoweka.pdf), [Paper 2](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/16-599.pdf)
-
-**License:** GPL-3.0
-
 Python wrapper: https://github.com/fracpete/python-weka-wrapper3
-
 Weka installation: https://waikato.github.io/weka-wiki/downloading_weka/
+
 
 ---
 
