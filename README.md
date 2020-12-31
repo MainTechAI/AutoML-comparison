@@ -208,6 +208,16 @@ Weka installation: https://waikato.github.io/weka-wiki/downloading_weka/
 **License:** Apache-2.0
 
 ---
+
+### ATM
+ - [Repository](https://github.com/HDI-Project/ATM)
+ - [Documentation](https://hdi-project.github.io/ATM/index.html)
+ - [Paper](https://dai.lids.mit.edu/wp-content/uploads/2018/02/atm_IEEE_BIgData-9-1.pdf)
+
+**License:** MIT
+
+
+---
 ## Open-source AutoDL projects
 Let's assume that AutoDL is a subset of AutoML. 
 
