@@ -1,4 +1,4 @@
-# AutoML-comparison
+# AutoML-comparison (Under development)
 Part of the master's research work. KE-120, SUSU, 2020.
 
 ---
@@ -8,7 +8,7 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation](https://automl.github.io/auto-sklearn/master/)
  - [Paper 1](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf), [Paper 2](https://arxiv.org/abs/2007.04074)
 
-**License:** 3-clause BSD
+**License:** BSD-3-Clause 
 
 ---
 
@@ -17,7 +17,7 @@ Part of the master's research work. KE-120, SUSU, 2020.
  - [Documentation](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
  - [Paper](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf)
 
-**License:** Apache 2.0
+**License:** Apache-2.0
 
 ---
 
@@ -30,93 +30,100 @@ Part of the master's research work. KE-120, SUSU, 2020.
 
 ---
 
-### Hyperopt-sklearn
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+### hyperopt-sklearn
+ - [Repository](https://github.com/hyperopt/hyperopt-sklearn)
+ - [Documentation](https://hyperopt.github.io/hyperopt-sklearn/)
+ - [Paper 1](http://conference.scipy.org/proceedings/scipy2014/pdfs/komer.pdf)
 
-**License:** ?
+**License:** BSD-3-Clause 
+
+---
+
+### Auto-WEKA  
+ - [Repository](https://github.com/automl/autoweka)
+ - [Documentation](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/manual.pdf)
+ - [Paper 1](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/autoweka.pdf), [Paper 2](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/16-599.pdf)
+
+**License:** GPL-3.0
+
+Python wrapper: https://github.com/fracpete/python-weka-wrapper3
+
+Weka installation: https://waikato.github.io/weka-wiki/downloading_weka/
 
 ---
 
-### AutoWeka 
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
-
-**License:** ?
-
----
 ### AutoGluon
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/awslabs/autogluon)
+ - [Documentation](https://auto.gluon.ai/)
+ - [Paper](https://arxiv.org/abs/2003.06505)
 
-**License:** ?
+**License:** Apache-2.0
 
 ---
+
 ### GAMA
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/PGijsbers/gama)
+ - [Documentation](https://pgijsbers.github.io/gama/master/)
+ - [Paper](https://arxiv.org/abs/2007.04911)
 
-**License:** ?
+**License:** Apache-2.0
 
 ---
+
 ### OBOE
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/udellgroup/oboe)
+ - [Examples](https://github.com/udellgroup/oboe/tree/master/examples)
+ - [Paper](https://people.ece.cornell.edu/cy/_papers/oboe.pdf)
 
-**License:** ?
+**License:** BSD-3-Clause
 
 ---
+
 ### LAMA
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/sberbank-ai-lab/LightAutoML)
+ - [Documentation](https://lightautoml.readthedocs.io/en/latest/)
 
-**License:** ?
+**License:** Apache-2.0
 
 ---
+
 ### WhiteBoxAutoML
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/sberbank-ai-lab/AutoMLWhitebox)
 
-**License:** ?
+**License:** Apache-2.0
 
 ---
+
 ### mljar-supervised
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/mljar/mljar-supervised)
+ - [Documentation](https://supervised.mljar.com/)
 
-**License:** ?
-
----
-### pycaret 2.0
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
-
-**License:** ?
+**License:** MIT
 
 ---
+
+### PyCaret
+
+ - [Repository](https://github.com/pycaret/pycaret)
+ - [Documentation](https://pycaret.readthedocs.io/en/latest/)
+
+**License:** MIT
+
+---
+
 ### MLBox
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/AxeldeRomblay/MLBox)
+ - [Documentation](https://mlbox.readthedocs.io/en/latest/)
 
-**License:** ?
+**License:** BSD-3-Clause
 
 ---
-### auto_ml
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
 
-**License:** ?
+### auto_ml
+ - [Repository](https://github.com/ClimbsRocks/auto_ml)
+ - [Documentation](https://auto-ml.readthedocs.io/en/latest/)
+
+**License:** MIT
 
 ---
 ### Pennai
@@ -167,12 +174,12 @@ Part of the master's research work. KE-120, SUSU, 2020.
 **License:** ?
 
 ---
-### Xcessiv
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
 
-**License:** ?
+### Xcessiv
+ - [Repository](https://github.com/reiinakano/xcessiv)
+ - [Documentation](https://xcessiv.readthedocs.io/en/stable/)
+
+**License:** Apache-2.0
 
 ---
 ### 
