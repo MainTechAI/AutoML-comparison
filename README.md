@@ -1,5 +1,4 @@
 # AutoML-comparison (Under development)
-Part of the master's research work. KE-120, SUSU, 2020.
 
 ---
 
@@ -126,52 +125,57 @@ Weka installation: https://waikato.github.io/weka-wiki/downloading_weka/
 **License:** MIT
 
 ---
+
 ### Pennai
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/EpistasisLab/pennai)
+ - [Documentation](https://epistasislab.github.io/pennai/)
+ - [Paper](https://doi.org/10.1093/bioinformatics/btaa698)
 
-**License:** ?
+**License:** GPL-3.0
 
 ---
+
 ### ML-Plan
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/starlibs/AILibs)
+ - [Documentation](https://starlibs.github.io/AILibs/projects/mlplan/)
+ - [Paper](https://doi.org/10.1007/s10994-018-5735-z)
 
-**License:** ?
+**License:** AGPL-3.0
 
 ---
+
 ### TransmogrifAI
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/salesforce/TransmogrifAI)
+ - [Documentation](https://docs.transmogrif.ai/en/stable/)
 
-**License:** ?
+**License:** BSD-3-Clause
 
 ---
+
 ### autoxgboost
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/ja-thomas/autoxgboost)
+ - [Example](https://github.com/ja-thomas/autoxgboost/blob/master/poster_2018.pdf)
+ - [Paper](https://arxiv.org/abs/1807.03873v2)
 
 **License:** ?
 
 ---
-### NNI (microsoft)
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
 
-**License:** ?
+### NNI
+ - [Repository](https://github.com/microsoft/nni)
+ - [Documentation](https://nni.readthedocs.io/en/stable/)
+ - [Papers](https://nni.readthedocs.io/en/latest/ResearchPublications.html)
+
+**License:** MIT
 
 ---
+
 ### Recipe
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
+ - [Repository](https://github.com/laic-ufmg/Recipe)
+ - [Documentation](https://laic-ufmg.github.io/Recipe/docs/)
+ - [Paper](https://doi.org/10.1007/978-3-319-55696-3_16)
 
-**License:** ?
+**License:** GPL-3.0
 
 ---
 
@@ -180,13 +184,5 @@ Weka installation: https://waikato.github.io/weka-wiki/downloading_weka/
  - [Documentation](https://xcessiv.readthedocs.io/en/stable/)
 
 **License:** Apache-2.0
-
----
-### 
- - [Repository]()
- - [Documentation]()
- - [Paper 1](), [Paper 2]()
-
-**License:** ?
 
 ---
