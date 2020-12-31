@@ -1,6 +1,11 @@
 # AutoML-comparison (Under development)
 
+### Datasets
+
+List of datasets
+
 ### Results
+
 
 | Dataset | TPOT | H2O AutoML | auto-sklearn |
 |:----------------|:---------:|:---------:|:---------:|
@@ -9,6 +14,14 @@
 | ? | ? | ? | ? |
 
 ## Open-source AutoML projects
+
+| Name | Repository | Documentation | Stats |
+|:---------:|:---------:|:---------:|:---------:|
+| auto-sklearn | [Repository](https://github.com/automl/auto-sklearn) | [Documentation](https://automl.github.io/auto-sklearn/master/)             | ![Lines of code](https://img.shields.io/tokei/lines/github/automl/auto-sklearn?style=flat-square)
+| H2O (AutoML) | [Repository](https://github.com/h2oai/h2o-3)         | [Documentation](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) | ![Lines of code](https://img.shields.io/tokei/lines/github/h2oai/h2o-3?style=flat-square)
+| TPOT         | [Repository](https://github.com/EpistasisLab/tpot)   | [Documentation](http://epistasislab.github.io/tpot/)                       | ![Lines of code](https://img.shields.io/tokei/lines/github/EpistasisLab/tpot?style=flat-square)
+
+
 
 
 ### auto-sklearn 
