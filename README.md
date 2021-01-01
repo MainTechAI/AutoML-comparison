@@ -49,37 +49,17 @@ Weka installation: https://waikato.github.io/weka-wiki/downloading_weka/
 
 
 
----
 ## Open-source AutoDL projects
 Let's assume that AutoDL is a subset of AutoML. 
 
----
+| Name | Repository | Documentation | Stats | Papers | License |
+|:---------|:---------|:---------|:---------:|:---------|:---------|
+| Auto-PyTorch | [Repository](https://github.com/automl/Auto-PyTorch) | [Examples](https://github.com/automl/Auto-PyTorch/tree/master/examples/basics) | ![Lines of code](https://img.shields.io/tokei/lines/github/automl/Auto-PyTorch?style=flat-square) | [Paper 1](https://arxiv.org/abs/2006.13799), [Paper 2](https://ml.informatik.uni-freiburg.de/papers/16-AUTOML-AutoNet.pdf) | Apache-2.0 |
+| AutoKeras | [Repository](https://github.com/keras-team/autokeras) | [Documentation](https://autokeras.com/) | ![Lines of code](https://img.shields.io/tokei/lines/github/keras-team/autokeras?style=flat-square) | [Paper](https://dl.acm.org/doi/10.1145/3292500.3330648) | Apache-2.0 |
+| DEvol | [Repository](https://github.com/joeddav/devol) | [Example](https://github.com/joeddav/devol/tree/master/example) | ![Lines of code](https://img.shields.io/tokei/lines/github/joeddav/devol?style=flat-square) | - | MIT |
+| | | | | | |
 
-### Auto-PyTorch
- - [Repository](https://github.com/automl/Auto-PyTorch)
- - [Examples](https://github.com/automl/Auto-PyTorch/tree/master/examples/basics)
- - [Paper 1](https://arxiv.org/abs/2006.13799), [Paper 2](https://ml.informatik.uni-freiburg.de/papers/16-AUTOML-AutoNet.pdf)
 
-**License:** Apache-2.0
-
----
-
-### AutoKeras
- - [Repository](https://github.com/keras-team/autokeras)
- - [Documentation](https://autokeras.com/)
- - [Paper](https://dl.acm.org/doi/10.1145/3292500.3330648)
-
-**License:** Apache-2.0
-
----
-
-### DEvol
- - [Repository](https://github.com/joeddav/devol)
- - [Example](https://github.com/joeddav/devol/tree/master/example)
-
-**License:** MIT
-
----
 
 ## Commercial projects
 Maybe later
