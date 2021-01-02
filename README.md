@@ -9,23 +9,21 @@ Describe environment, data sources, data preprocessing steps, etc
 
 List of used datasets
 
-| Dataset | Shape | Size | Info |
-|:----------------|:---------:|:---------:|:---------:|
-| ? | ? | ? | ? |
-| ? | ? | ? | ? |
-| ? | ? | ? | ? |
-| ? | ? | ? | ? |
-
+| ID | Dataset | Shape | Size | Info |
+|:---------:|:----------------|:---------:|:---------:|:---------:|
+| 1 | ? | ? | ? | ? |
+| 2 | ? | ? | ? | ? |
+| 3 | ? | ? | ? | ? |
 
 ## Results
+Performance on each dataset
 
-
-| Dataset | TPOT | H2O AutoML | auto-sklearn |
+| AutoML system | Dataset 1 | Dataset 2 | Dataset 3 |
 |:----------------|:---------:|:---------:|:---------:|
-| ? | ? | ? | ? |
-| ? | ? | ? | ? |
-| ? | ? | ? | ? |
-
+| auto-sklearn | ? | ? | ? |
+| H2O (AutoML) | ? | ? | ? |
+| TPOT         | ? | ? | ? |
+|  |  |  |  |
 
 ### Auto-WEKA  
 Python wrapper: https://github.com/fracpete/python-weka-wrapper3
@@ -65,7 +63,7 @@ AutoML systems focus on using Machine Learning algorithms. For example: SVM, GLM
 
 
 ## Open-source AutoDL projects
-Let's assume that AutoDL is a subset of AutoML. AutoDL systems focus only (or mainly) on using Deep Learning algorithms.
+Let's assume that AutoDL is a subset of AutoML. AutoDL systems focus only (or mainly) on using Deep Learning algorithms. Also assume that NAS is a part of AutoDL.
 
 | Name | Repository | Documentation | Stats | Papers | License |
 |:---------|:---------|:---------|:---------:|:---------|:---------|
@@ -90,5 +88,15 @@ For future categorization
 
 
 ## Commercial projects
-Maybe later
+
+| Name | Website | Documentation | Company |
+|:---------|:---------:|:---------|:---------|
+| Cloud AutoML | [Link](https://cloud.google.com/automl) | [Documentation](https://cloud.google.com/automl/docs) | Google |
+| ADS (AutoML)  | - | [Documentation](https://docs.oracle.com/en-us/iaas/tools/ads-sdk/latest/user_guide/automl/overview.html) | Oracle |
+| SageMaker Autopilot | [Link](https://aws.amazon.com/sagemaker/autopilot/) | [Documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/autopilot-automate-model-development.html) | Amazon |
+| Azure Automated ML | [Link](https://azure.microsoft.com/en-us/services/machine-learning/automatedml/) | [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml) | Microsoft |
+| Watson AutoAI | [Link](https://www.ibm.com/cloud/watson-studio/autoai) | [Documentation](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html) | IBM |
+|  |  |  |  |
+|  |  |  |  |
+
 
