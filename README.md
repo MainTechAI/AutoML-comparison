@@ -73,7 +73,9 @@ Let's assume that AutoDL is a subset of AutoML. AutoDL systems focus only (or ma
 | Ludwig | [Repository](https://github.com/ludwig-ai/ludwig) | [Documentation](https://ludwig-ai.github.io/ludwig-docs/) | ![Lines of code](https://img.shields.io/tokei/lines/github/ludwig-ai/ludwig?style=flat-square) | [Paper](https://arxiv.org/abs/1909.07930) | Apache-2.0 |
 | MindsDB | [Repository](https://github.com/mindsdb/mindsdb) | [Documentation](https://docs.mindsdb.com/) | ![Lines of code](https://img.shields.io/tokei/lines/github/mindsdb/mindsdb?style=flat-square) | ? | GPL-3.0 |
 | Lightwood | [Repository](https://github.com/mindsdb/lightwood) | [Documentation](https://docs.mindsdb.com/lightwood/info/) | ![Lines of code](https://img.shields.io/tokei/lines/github/mindsdb/lightwood?style=flat-square) | ? | GPL-3.0 |
+| ENAS| | | | [Paper](https://arxiv.org/abs/1802.03268) | |
 | | | | | | |
+
 
 
 
@@ -96,7 +98,6 @@ For future categorization
 | SageMaker Autopilot | [Link](https://aws.amazon.com/sagemaker/autopilot/) | [Documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/autopilot-automate-model-development.html) | Amazon |
 | Azure Automated ML | [Link](https://azure.microsoft.com/en-us/services/machine-learning/automatedml/) | [Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml) | Microsoft |
 | Watson AutoAI | [Link](https://www.ibm.com/cloud/watson-studio/autoai) | [Documentation](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html) | IBM |
+| Driverless AI | [Link](https://www.h2o.ai/products/h2o-driverless-ai/) | [Documentation](https://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/index.html) | H2O.ai |
 |  |  |  |  |
-|  |  |  |  |
-
 
