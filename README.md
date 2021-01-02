@@ -1,8 +1,10 @@
 # AutoML-comparison (Under development)
 
+Some of the definitions (or all) given in this project may be changed later. The same applies to the project structure.
+
 ### Datasets
 
-List of datasets
+List of used datasets
 
 ### Results
 
@@ -20,6 +22,7 @@ Weka installation: https://waikato.github.io/weka-wiki/downloading_weka/
 
 
 ## Open-source AutoML projects
+AutoML systems focus on using Machine Learning algorithms. For example: SVM, GLM, decision tree based algorithms (DT, RF, GB), etc. Neural Networks can also be used. 
 
 | Name | Repository | Documentation | Stats | Papers | License |
 |:---------|:---------|:---------|:---------:|:---------|:---------|
@@ -50,16 +53,27 @@ Weka installation: https://waikato.github.io/weka-wiki/downloading_weka/
 
 
 ## Open-source AutoDL projects
-Let's assume that AutoDL is a subset of AutoML. 
+Let's assume that AutoDL is a subset of AutoML. AutoDL systems focus only (or mainly) on using Deep Learning algorithms.
 
 | Name | Repository | Documentation | Stats | Papers | License |
 |:---------|:---------|:---------|:---------:|:---------|:---------|
 | Auto-PyTorch | [Repository](https://github.com/automl/Auto-PyTorch) | [Examples](https://github.com/automl/Auto-PyTorch/tree/master/examples/basics) | ![Lines of code](https://img.shields.io/tokei/lines/github/automl/Auto-PyTorch?style=flat-square) | [Paper 1](https://arxiv.org/abs/2006.13799), [Paper 2](https://ml.informatik.uni-freiburg.de/papers/16-AUTOML-AutoNet.pdf) | Apache-2.0 |
 | AutoKeras | [Repository](https://github.com/keras-team/autokeras) | [Documentation](https://autokeras.com/) | ![Lines of code](https://img.shields.io/tokei/lines/github/keras-team/autokeras?style=flat-square) | [Paper](https://dl.acm.org/doi/10.1145/3292500.3330648) | Apache-2.0 |
 | DEvol | [Repository](https://github.com/joeddav/devol) | [Example](https://github.com/joeddav/devol/tree/master/example) | ![Lines of code](https://img.shields.io/tokei/lines/github/joeddav/devol?style=flat-square) | - | MIT |
+| Ludwig | [Repository](https://github.com/ludwig-ai/ludwig) | [Documentation](https://ludwig-ai.github.io/ludwig-docs/) | ![Lines of code](https://img.shields.io/tokei/lines/github/ludwig-ai/ludwig?style=flat-square) | [Paper](https://arxiv.org/abs/1909.07930) | Apache-2.0 |
+| | | | | | |
 | | | | | | |
 
 
+## Other projects
+For future categorization
+
+| Name | Repository | Documentation | Stats | Papers | License |
+|:---------|:---------|:---------|:---------:|:---------|:---------|
+| PocketFlow | [Repository](https://github.com/Tencent/PocketFlow) | [Documentation](https://pocketflow.github.io/) | ![Lines of code](https://img.shields.io/tokei/lines/github/Tencent/PocketFlow?style=flat-square) | [Paper](https://openreview.net/pdf?id=H1fWoYhdim) | BSD-3-Clause |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## Commercial projects
 Maybe later
+
