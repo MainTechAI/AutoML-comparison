@@ -2,9 +2,20 @@
 
 Some of the definitions (or all) given in this project may be changed later. The same applies to the project structure.
 
-## Datasets
+## Methods
+Describe environment, data sources, data preprocessing steps, etc
+
+### Datasets
 
 List of used datasets
+
+| Dataset | Shape | Size | Info |
+|:----------------|:---------:|:---------:|:---------:|
+| ? | ? | ? | ? |
+| ? | ? | ? | ? |
+| ? | ? | ? | ? |
+| ? | ? | ? | ? |
+
 
 ## Results
 
