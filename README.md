@@ -2,11 +2,11 @@
 
 Some of the definitions (or all) given in this project may be changed later. The same applies to the project structure.
 
-### Datasets
+## Datasets
 
 List of used datasets
 
-### Results
+## Results
 
 
 | Dataset | TPOT | H2O AutoML | auto-sklearn |
@@ -49,6 +49,7 @@ AutoML systems focus on using Machine Learning algorithms. For example: SVM, GLM
 | Xcessiv | [Repository](https://github.com/reiinakano/xcessiv) | [Documentation](https://xcessiv.readthedocs.io/en/stable/) | ![Lines of code](https://img.shields.io/tokei/lines/github/reiinakano/xcessiv?style=flat-square) | - | Apache-2.0 |
 | ATM | [Repository](https://github.com/HDI-Project/ATM) | [Documentation](https://hdi-project.github.io/ATM/index.html) | ![Lines of code](https://img.shields.io/tokei/lines/github/HDI-Project/ATM?style=flat-square) | [Paper](https://dai.lids.mit.edu/wp-content/uploads/2018/02/atm_IEEE_BIgData-9-1.pdf) | MIT |
 | PMF | [Repository](https://github.com/rsheth80/pmf-automl) | - | ![Lines of code](https://img.shields.io/tokei/lines/github/rsheth80/pmf-automl?style=flat-square) | [Paper](http://papers.neurips.cc/paper/7595-probabilistic-matrix-factorization-for-automated-machine-learning) | BSD-3-Clause |
+| | | | | | |
 
 
 
@@ -61,8 +62,10 @@ Let's assume that AutoDL is a subset of AutoML. AutoDL systems focus only (or ma
 | AutoKeras | [Repository](https://github.com/keras-team/autokeras) | [Documentation](https://autokeras.com/) | ![Lines of code](https://img.shields.io/tokei/lines/github/keras-team/autokeras?style=flat-square) | [Paper](https://dl.acm.org/doi/10.1145/3292500.3330648) | Apache-2.0 |
 | DEvol | [Repository](https://github.com/joeddav/devol) | [Example](https://github.com/joeddav/devol/tree/master/example) | ![Lines of code](https://img.shields.io/tokei/lines/github/joeddav/devol?style=flat-square) | - | MIT |
 | Ludwig | [Repository](https://github.com/ludwig-ai/ludwig) | [Documentation](https://ludwig-ai.github.io/ludwig-docs/) | ![Lines of code](https://img.shields.io/tokei/lines/github/ludwig-ai/ludwig?style=flat-square) | [Paper](https://arxiv.org/abs/1909.07930) | Apache-2.0 |
+| MindsDB | [Repository](https://github.com/mindsdb/mindsdb) | [Documentation](https://docs.mindsdb.com/) | ![Lines of code](https://img.shields.io/tokei/lines/github/mindsdb/mindsdb?style=flat-square) | ? | GPL-3.0 |
+| Lightwood | [Repository](https://github.com/mindsdb/lightwood) | [Documentation](https://docs.mindsdb.com/lightwood/info/) | ![Lines of code](https://img.shields.io/tokei/lines/github/mindsdb/lightwood?style=flat-square) | ? | GPL-3.0 |
 | | | | | | |
-| | | | | | |
+
 
 
 ## Other projects
@@ -72,7 +75,8 @@ For future categorization
 |:---------|:---------|:---------|:---------:|:---------|:---------|
 | PocketFlow | [Repository](https://github.com/Tencent/PocketFlow) | [Documentation](https://pocketflow.github.io/) | ![Lines of code](https://img.shields.io/tokei/lines/github/Tencent/PocketFlow?style=flat-square) | [Paper](https://openreview.net/pdf?id=H1fWoYhdim) | BSD-3-Clause |
 |  |  |  |  |  |  |
-|  |  |  |  |  |  |
+
+
 
 ## Commercial projects
 Maybe later
