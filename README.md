@@ -9,11 +9,12 @@ Describe environment, data sources, data preprocessing steps, etc
 
 List of used datasets
 
-| ID | Dataset | Shape | Size | Info |
-|:---------:|:----------------|:---------:|:---------:|:---------:|
-| 1 | ? | ? | ? | ? |
-| 2 | ? | ? | ? | ? |
+| ID | Dataset | Shape | Size | Task | Info |
+|:---------:|:----------------|:---------:|:---------:|:---------:|:---------:|
+| 1 | [Fashion-MNIST](https://www.openml.org/d/40996) | 70000x785 | ? | Supervised Classification | Images |
+| 2 | [CIFAR_10](https://www.openml.org/d/40927) | 60000x3073 | ? | Supervised Classification | Images |
 | 3 | ? | ? | ? | ? |
+
 
 ## Results
 Performance on each dataset
