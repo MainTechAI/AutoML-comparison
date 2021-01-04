@@ -11,9 +11,9 @@ List of used datasets
 
 | ID | Dataset | Shape | Size | Task | Info |
 |:---------:|:----------------|:---------:|:---------:|:---------:|:---------:|
-| 1 | [Fashion-MNIST](https://www.openml.org/d/40996) | 70000x785 | ? | Supervised Classification | Images |
-| 2 | [CIFAR_10](https://www.openml.org/d/40927) | 60000x3073 | ? | Supervised Classification | Images |
-| 3 | ? | ? | ? | ? |
+| 1 | [Fashion-MNIST](https://www.openml.org/d/40996) | 70000x785 | ? | Classification | Images |
+| 2 | [CIFAR_10](https://www.openml.org/d/40927) | 60000x3073 | ? | Classification | Images |
+| 3 | [vehicle](https://www.openml.org/d/54) | 846x19 | ? | Classification | - |
 
 
 ## Results
@@ -74,10 +74,8 @@ Let's assume that AutoDL is a subset of AutoML. AutoDL systems focus only (or ma
 | Ludwig | [Repository](https://github.com/ludwig-ai/ludwig) | [Documentation](https://ludwig-ai.github.io/ludwig-docs/) | ![Lines of code](https://img.shields.io/tokei/lines/github/ludwig-ai/ludwig?style=flat-square) | [Paper](https://arxiv.org/abs/1909.07930) | Apache-2.0 |
 | MindsDB | [Repository](https://github.com/mindsdb/mindsdb) | [Documentation](https://docs.mindsdb.com/) | ![Lines of code](https://img.shields.io/tokei/lines/github/mindsdb/mindsdb?style=flat-square) | ? | GPL-3.0 |
 | Lightwood | [Repository](https://github.com/mindsdb/lightwood) | [Documentation](https://docs.mindsdb.com/lightwood/info/) | ![Lines of code](https://img.shields.io/tokei/lines/github/mindsdb/lightwood?style=flat-square) | ? | GPL-3.0 |
-| ENAS| | | | [Paper](https://arxiv.org/abs/1802.03268) | |
+| ENAS| [Repository](https://github.com/melodyguan/enas) | - | - | [Paper](https://arxiv.org/abs/1802.03268) | Apache-2.0 |
 | | | | | | |
-
-
 
 
 ## Other projects
