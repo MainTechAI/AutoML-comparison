@@ -14,6 +14,7 @@ List of used datasets
 | 1 | [Fashion-MNIST](https://www.openml.org/d/40996) | 70000x785 | ? | Classification | Images |
 | 2 | [CIFAR_10](https://www.openml.org/d/40927) | 60000x3073 | ? | Classification | Images |
 | 3 | [vehicle](https://www.openml.org/d/54) | 846x19 | ? | Classification | - |
+| 4 | [Airlines]() |  |  |  |  |
 
 
 ## Results
