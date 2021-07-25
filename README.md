@@ -15,6 +15,13 @@ List of used datasets
 | 2 | [CIFAR_10](https://www.openml.org/d/40927) | 60000x3073 | ? | Classification | Images |
 | 3 | [vehicle](https://www.openml.org/d/54) | 846x19 | ? | Classification | - |
 | 4 | [Airlines]() |  |  |  |  |
+| 5 | []() |  |  |  |  |
+| 6 | []() |  |  |  |  |
+| 7 | []() |  |  |  |  |
+| 8 | []() |  |  |  |  |
+| 9 | []() |  |  |  |  |
+| 10 | []() |  |  |  |  |
+| 11 | []() |  |  |  |  |
 
 
 ## Results
