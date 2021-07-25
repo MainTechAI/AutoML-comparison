@@ -77,6 +77,7 @@ Let's assume that AutoDL is a subset of AutoML. AutoDL systems focus only (or ma
 | Lightwood | [Repository](https://github.com/mindsdb/lightwood) | [Documentation](https://docs.mindsdb.com/lightwood/info/) | ![Lines of code](https://img.shields.io/tokei/lines/github/mindsdb/lightwood?style=flat-square) | ? | GPL-3.0 |
 | ENAS| [Repository](https://github.com/melodyguan/enas) | - | - | [Paper](https://arxiv.org/abs/1802.03268) | Apache-2.0 |
 | Talos| [Repository](https://github.com/autonomio/talos) | [Documentation](https://autonomio.github.io/talos/#/) | ![Lines of code](https://img.shields.io/tokei/lines/github/autonomio/talos?style=flat-square) | - | MIT |
+| Hyperas (Archived) | [Repository](https://github.com/maxpumperla/hyperas) | [Documentation](http://maxpumperla.com/hyperas/) | ![Lines of code](https://img.shields.io/tokei/lines/github/maxpumperla/hyperas?style=flat-square) | - | MIT |
 | | | | | | |
 
 
