@@ -11,17 +11,17 @@ List of used datasets
 
 | ID | Dataset | Shape | Size | Task | Info |
 |:---------:|:----------------|:---------:|:---------:|:---------:|:---------:|
-| 1 | [Fashion-MNIST](https://www.openml.org/d/40996) | 70000x785 | ? | Classification | Images |
-| 2 | [CIFAR_10](https://www.openml.org/d/40927) | 60000x3073 | ? | Classification | Images |
-| 3 | [vehicle](https://www.openml.org/d/54) | 846x19 | ? | Classification | - |
-| 4 | [Airlines]() |  |  |  |  |
-| 5 | []() |  |  |  |  |
-| 6 | []() |  |  |  |  |
-| 7 | []() |  |  |  |  |
-| 8 | []() |  |  |  |  |
-| 9 | []() |  |  |  |  |
-| 10 | []() |  |  |  |  |
-| 11 | []() |  |  |  |  |
+| 1 | [Airlines]() | 539383 × 8 | 19.2 MB | Classification (binary) |  |
+| 2 | [Amazon employee access]() | 32769 × 10 | 2.0 МB | Classification (binary) |  |
+| 3 | [Blood transfusion service center]() | 748 × 5 | 10.5 КB | Classification (binary) |  |
+| 4 | [CIFAR_10](https://www.openml.org/d/40927) | 12000 × 3073 | 131.9 МB | Classification (binary) | Images |
+| 5 | [Connect 4 (balanced)]() | 46168 × 43 | 4.0 МB | Classification (binary) |  |
+| 6 | [Connect 4 (imbalanced)]() | 67557 × 43 | 5.8 МB | Classification (binary) |  |
+| 7 | [Fashion-MNIST](https://www.openml.org/d/40996) | 14000 × 785 | 32.0 МB | Classification (binary) | Images |
+| 8 | [Jungle chess]() | 44819 × 7 | 609.3 КB | Classification (binary) |  |
+| 9 | [kc1]() | 2109 × 22 | 192.2 КB | Classification (binary) |  |
+| 10 | [KDDCup09 appetency]() | 50000 × 231 | 34.4 МB | Classification (binary) |  |
+| 11 | [Vehicle](https://www.openml.org/d/54) | 434 × 19 | 29.1 КB | Classification (binary) | - |
 
 
 ## Results
@@ -29,9 +29,9 @@ Performance on each dataset
 
 | AutoML system | Dataset 1 | Dataset 2 | Dataset 3 |
 |:----------------|:---------:|:---------:|:---------:|
-| auto-sklearn | ? | ? | ? |
-| H2O (AutoML) | ? | ? | ? |
-| TPOT         | ? | ? | ? |
+| auto-sklearn | - | - | - |
+| H2O (AutoML) | - | - | - |
+| TPOT         | - | - | - |
 |  |  |  |  |
 
 ### Auto-WEKA  
