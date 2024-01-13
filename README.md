@@ -1,10 +1,4 @@
 # AutoML-comparison 
-## (Under development. Need to re-evaluate TPOT, H2O and Auto-sklearn due to possible errors.)
-
-Some of the definitions (or all) given in this project may be changed later. The same applies to the project structure.
-
-## Methods
-Describe environment, data sources, data preprocessing steps, etc
 
 ### Datasets
 
@@ -24,19 +18,9 @@ List of used datasets
 | 10 | [KDDCup09 appetency]() | 50000 × 231 | 34.4 МB | Classification (binary) |  |
 | 11 | [Vehicle](https://www.openml.org/d/54) | 434 × 19 | 29.1 КB | Classification (binary) | - |
 
-
-## Results
-Performance on each dataset
-
-| AutoML system | Dataset 1 | Dataset 2 | Dataset 3 |
-|:----------------|:---------:|:---------:|:---------:|
-| auto-sklearn | - | - | - |
-| H2O (AutoML) | - | - | - |
-| TPOT         | - | - | - |
-|  |  |  |  |
-
 ### Auto-WEKA  
 Python wrapper: https://github.com/fracpete/python-weka-wrapper3
+
 Weka installation: https://waikato.github.io/weka-wiki/downloading_weka/
 
 
