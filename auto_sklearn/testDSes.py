@@ -142,7 +142,3 @@ if __name__ == "__main__":
 
         print("Accuracy score", sklearn.metrics.accuracy_score(y_test, y_hat))
         print(pd.DataFrame(automl.cv_results_))
-        
-        
-        
-        
